@@ -16,3 +16,6 @@ zuul:
     usuarios:
       service-id: microservicio-usuarios
       path: /api/alumnos/**
+    cursos:
+      service-id: microservicio-cursos
+      path: /api/cursos/**
