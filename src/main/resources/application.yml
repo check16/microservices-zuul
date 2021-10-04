@@ -19,3 +19,6 @@ zuul:
     cursos:
       service-id: microservicio-cursos
       path: /api/cursos/**
+    examenes:
+      service-id: microservicio-examenes
+      path: /api/examenes/**
